@@ -1,0 +1,5 @@
+node_modules
+.env
+function.js
+auth/passport.js
+auth/passport-cognito.js
